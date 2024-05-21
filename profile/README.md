@@ -1,7 +1,8 @@
 # Organización Javeriana Impacta
 ## Trabajo de grado: "Concepción y desarrollo de un sistema para la gestión de los proyectos sociales adscritos a la Facultad de Ingenieria de la Pontificia Universidad Javeriana"
-
-<center><img src="https://avatars.githubusercontent.com/u/158785738?s=400&u=a1c1a63616e36df491de0e934bbe6f119f15c11e&v=4"></center>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/158785738?s=400&u=a1c1a63616e36df491de0e934bbe6f119f15c11e&v=4">
+</p>
 
 Integrantes
 - Pablo Arturo Rodríguez González
